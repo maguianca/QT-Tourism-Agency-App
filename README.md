@@ -14,7 +14,8 @@ This project -**Tourism Agency App** is an application built with C++ and QT for
   -histogram visualization-> graphical representation of travel offers of the wishlist 
   -observer pattern ->ensure the UI updates dynamically when data changes
   ![turism agency 1](https://github.com/user-attachments/assets/a446b409-ea1a-4539-abeb-fea745243720)
-  ![Screenshot 2024-10-04 123716](https://github.com/user-attachments/assets/15c6d892-c5d5-49dd-b7ae-1a91c9f1c4bb)
+![Screenshot 2024-10-04 123727](https://github.com/user-attachments/assets/869733ee-3336-4a30-bd40-94856c8581f2)
+
   
 
 
