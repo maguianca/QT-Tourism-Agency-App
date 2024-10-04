@@ -5,7 +5,7 @@ This project -**Tourism Agency App** is an application built with C++ and QT for
   -STL class Vector Implementation (iterators and templates) 
   -Graphical User Interface: delving into QT framework I learned about slots and signals for event handling and applied
   design patterns such as : **Observer**, **Model-View_controllwe**, **QPaint**
-  **Features**
+# Features
   -add/remove/edit offers
   -sorting and filtering
   -whishlist functionality-> users can add an existing travel offer or random travel offers to a wishlist and export
