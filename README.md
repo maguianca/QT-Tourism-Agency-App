@@ -1,5 +1,5 @@
 # QT-Tourism-Agency-App
-This project -**Tourism Agency App** is an application built with C++ and QT for graphical user interface(GUI). This app is part of my last project for OOP course. This project allowed me to consolidate and apply a wide range of concepts I learned throughout my course. 
+This project -**Tourism Agency App** is an application built with C++ and QT for graphical user interface(GUI). This app is part of my last project for OOP course. This project allowed me to consolidate and apply a wide range of concepts I learned throughout my course.  
 **Key topics include:**  
   -Rule of three and Rule of five  
   -Memory Management (dangling pointers, smart pointers)  
